@@ -616,7 +616,7 @@ closedir($myDirectory);
 
 
 
-<!--<p>Our approach may complement Google's News Timeline offering the possibility of exploring within a document <a href="http://www.google.com/search?q=timeline&hl=en&sa=X&tbs=tl:1,tll:2003/01,tlh:2003/03&prmd=i&ei=9uFNTOTkBZm8jAf616XYDA&ved=0CHMQyQEoBQ">Google Timeline</a>.</p>-->
+<!--<p>Our approach may complement Google News Timeline offering the possibility of exploring within a document <a href="http://www.google.com/search?q=timeline&hl=en&sa=X&tbs=tl:1,tll:2003/01,tlh:2003/03&prmd=i&ei=9uFNTOTkBZm8jAf616XYDA&ved=0CHMQyQEoBQ">Google Timeline</a>.</p>-->
 
 
 <?php
@@ -631,7 +631,7 @@ closedir($myDirectory);
 <br />
 <br />
 <br />
-<div>Contact: <a href="http://www.cognitionis.com/hector-llorens/">Hector Llorens</a>, University of Alicante, Spain</div>
+<div>Contact: <a href="http://www.cognitionis.com/">Hector Llorens</a>, Alicante, Spain</div>
 
  </body>
 </html>
